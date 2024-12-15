@@ -1,3 +1,7 @@
+---
+cover: ../.gitbook/assets/EtablissementCover.png
+coverY: 0
+---
 # 🏫 Établissement manquant
 
 Sur les logiciels Pronote et Skolengo, il existe un moyen de rechercher des établissements à proximité. Cependant, il est possible de ne pas trouver le sien. Pourquoi et que faire ?
