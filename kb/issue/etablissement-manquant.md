@@ -25,7 +25,7 @@ Attention : **Un code vous sera demandé lors de la création du Code QR, il fau
 <div align="left"><figure><img src="../../.gitbook/assets/ChoisirQR.png" alt="" width="375"><figcaption><p>Choisir "J'ai un QR Code"</p></figcaption></figure> <figure><img src="../../.gitbook/assets/qrScan.png" alt="" width="375"><figcaption><p>Scanner le code QR (avec la Caméra Arrière)</p></figcaption></figure> <figure><img src="../../.gitbook/assets/qrEnterCode.png" alt="" width="375"><figcaption><p>Entrer le code</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Welcome.png" alt="" width="375"><figcaption><p>Félicitations ! Vous êtes connecté.e.</p></figcaption></figure></div>
 
 {% hint style="success" %}
-Vous pouvez maintenant utiliser Papillon avec votre téléphone ! :tada:
+Vous pouvez maintenant utiliser Papillon avec votre appareil ! :tada:
 {% endhint %}
 
 #### Avec une URL
